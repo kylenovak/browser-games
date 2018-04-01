@@ -1,0 +1,22 @@
+{
+  "name": "browser-games",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylenovak/browser-games.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylenovak/browser-games/issues"
+  },
+  "homepage": "https://github.com/kylenovak/browser-games#readme",
+  "dependencies": {
+    "pong-browser-game": "git+ssh://git@github.com/kylenovak/pong-browser-game.git"
+  }
+}
