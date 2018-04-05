@@ -7,7 +7,7 @@ import pong from 'pong-browser-game';
 document.body.onload = pong;
 
 ReactDOM.render(
-  <h1>Novak Games</h1>,
+  <h1>Novak Games!</h1>,
   document.getElementById('root')
 );
 
