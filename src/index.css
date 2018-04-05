@@ -1,0 +1,44 @@
+*, *:before, *:after
+{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+a {
+	outline: 0;
+	-moz-outline-style: none;
+}
+
+*:focus {
+  outline: 0 !important;
+}
+
+*::-moz-focus-inner {
+	border: 0;
+}
+
+*::selection {
+	color: #fff;
+  background-color: #000;
+}
+
+html, body, #root
+{
+  width: 100%;
+  height: 100%;
+
+  margin: 0;
+  padding: 0;
+
+	overflow: hidden;
+}
+
+body
+{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+	font-family: 'Lato';
+}

@@ -1,1 +1,1 @@
-# Browser Games
+# Novak Games
