@@ -6,7 +6,7 @@
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
     "react-scripts": "1.1.4",
-    "pong-browser-game": "git+https://kylenovak:fe9c551a97ff38ea8c55d3def89eaf5eab27ca01@github.com/kylenovak/novakgames.git"
+    "pong-browser-game": "git+https://kylenovak:5bea628c90e99cbd42d986be635f20993f455608@github.com/kylenovak/pong-browser-game.git"
   },
   "scripts": {
     "start": "react-scripts start",
