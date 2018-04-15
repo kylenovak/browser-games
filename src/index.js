@@ -3,11 +3,11 @@ import ReactDOM from 'react-dom';
 import registerServiceWorker from './registerServiceWorker';
 import './index.css';
 
-import pong from 'pong-browser-game';
-document.body.onload = pong;
+import Game from 'pong-browser-game';
+import 'pong-browser-game/public/bundle.css';
 
 ReactDOM.render(
-  <h1>Novak Games!</h1>,
+  <Game width="640" height="480" />,
   document.getElementById('root')
 );
 
